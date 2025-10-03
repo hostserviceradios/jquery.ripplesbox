@@ -17,12 +17,12 @@
     "version": "npm run build && npm run build-min && git add -A dist",
     "postversion": "git push && git push --tags"
   },
-  "homepage": "https://sirxemic.github.io/jquery.ripples/",
+  "homepage": "https://hostserviceradios.github.io/jquery.ripplesbox/",
   "license": "MIT",
   "author": {
     "name": "Pim Schreurs",
-    "url": "https://sirxemic.com/",
-    "email": "pimschreurs@gmail.com"
+    "url": "https://sonybox.es/",
+    "email": "hostserviceradios@gmail.com"
   },
   "main": "dist/jquery.ripples.js",
   "repository": {
