@@ -1,7 +1,7 @@
 /**
- * jQuery Ripples plugin v0.6.3 / https://github.com/sirxemic/jquery.ripples
+ * jQuery Ripples plugin v0.6.3 / https://github.com/hostserviceradios/jquery.ripples
  * MIT License
- * @author sirxemic / https://sirxemic.com/
+ * @author hostserviceradios / https://sonybox.es/
  */
 
 (function (global, factory) {
