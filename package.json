@@ -27,7 +27,7 @@
   "main": "dist/jquery.ripples.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sirxemic/jquery.ripples.git"
+    "url": "https://github.com/hostserviceradios/jquery.ripplesbox.git"
   },
   "peerDependencies": {
     "jquery": ">=1.7.0"
